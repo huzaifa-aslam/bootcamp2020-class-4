@@ -12,7 +12,7 @@ function App() {
         <
         div className = { `box ${isMorning ? 'morning' : 'night'}` } >
         <
-        h1 > have a Good { isMorning ? "Morning" : "Night" } < /h1> <
+        h1 > Have a Good { isMorning ? "Morning" : "Night" } < /h1> <
         h1 > you are { ischild ? '17 year old' : '18 year old' } < /h1>
 
         <
