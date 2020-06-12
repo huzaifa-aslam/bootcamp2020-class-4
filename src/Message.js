@@ -6,8 +6,7 @@ function App(props) {
 
         <
         >
-        updated value is { props.counter } <
-        />
+        updated value is { props.counter } < />
     );
 }
 
